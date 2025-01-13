@@ -12,6 +12,7 @@ builder.Services.AddScoped<HelloWorldServices>();
 builder.Services.AddScoped<AskingQuestionsServices>();
 builder.Services.AddScoped<AddingTwoNumbersServices>();
 builder.Services.AddScoped<MadLibServices>();
+builder.Services.AddScoped<OddOrEvenServices>();
 
 var app = builder.Build();
 
