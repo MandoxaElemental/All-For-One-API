@@ -1,0 +1,27 @@
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 2/All For One API/bin/Debug/net6.0/appsettings.Development.json
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 2/All For One API/bin/Debug/net6.0/appsettings.json
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 2/All For One API/bin/Debug/net6.0/All For One API
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 2/All For One API/bin/Debug/net6.0/All For One API.deps.json
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 2/All For One API/bin/Debug/net6.0/All For One API.runtimeconfig.json
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 2/All For One API/bin/Debug/net6.0/All For One API.dll
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 2/All For One API/bin/Debug/net6.0/All For One API.pdb
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 2/All For One API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 2/All For One API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 2/All For One API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 2/All For One API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 2/All For One API/obj/Debug/net6.0/All For One API.csproj.AssemblyReference.cache
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 2/All For One API/obj/Debug/net6.0/All For One API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 2/All For One API/obj/Debug/net6.0/All For One API.AssemblyInfoInputs.cache
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 2/All For One API/obj/Debug/net6.0/All For One API.AssemblyInfo.cs
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 2/All For One API/obj/Debug/net6.0/All For One API.csproj.CoreCompileInputs.cache
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 2/All For One API/obj/Debug/net6.0/All For One API.MvcApplicationPartsAssemblyInfo.cs
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 2/All For One API/obj/Debug/net6.0/All For One API.MvcApplicationPartsAssemblyInfo.cache
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 2/All For One API/obj/Debug/net6.0/staticwebassets.build.json
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 2/All For One API/obj/Debug/net6.0/staticwebassets.development.json
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 2/All For One API/obj/Debug/net6.0/scopedcss/bundle/All For One API.styles.css
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 2/All For One API/obj/Debug/net6.0/All For One API.csproj.CopyComplete
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 2/All For One API/obj/Debug/net6.0/All For One API.dll
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 2/All For One API/obj/Debug/net6.0/refint/All For One API.dll
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 2/All For One API/obj/Debug/net6.0/All For One API.pdb
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 2/All For One API/obj/Debug/net6.0/All For One API.genruntimeconfig.cache
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 2/All For One API/obj/Debug/net6.0/ref/All For One API.dll
